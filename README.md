@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ch1mpleo</h1>
+<h1 align="center">Hi 👋, I'm Do Huu Viet Anh. However, I'm always known by the name, Ch1mple.</h1>
 <h3 align="center">Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1mpleo" alt="ch1mpleo" /></a> </p>
