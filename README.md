@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vietanh051203@gmail.com**
 
-- ⚡ Fun fact **I'm a pro gamer from CS2 (never touch any grass in my life)**
+- ⚡ Fun fact **I'm a pro gamer from CS2 and a chillin guy play soulborne game (never touch any grass in my life)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
