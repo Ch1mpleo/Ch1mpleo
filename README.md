@@ -1,8 +1,8 @@
 <img align="center" src="https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif" width=1000 height=400>
-<h1 align="center">Hi 👋, I'm Ch1mple</h1>
+<h1 align="text-align: left">🤓👆 I'm Ch1mple</h1>
 <h3 align="center">Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core, TailwindCSS, NextJS and Unity**
+- 🌱 I’m currently learning **ASP.NET Core, Typescript, TailwindCSS, NextJS and Unity**
 
 - 📫 How to reach me **vietanh051203@gmail.com**
 
