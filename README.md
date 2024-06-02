@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif)]
+<img src="https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif" width="100" height="100">
 <h1 align="center">Hi 👋, I'm Do Huu Viet Anh.</h1>
 <h1 align="center">However, I'm always known by the name, Ch1mple.</h1>
 <h3 align="center">Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler</h3>
