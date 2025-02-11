@@ -35,5 +35,8 @@
 </div>
 
 <h2 align="text-align: left">🐍 The snake is eating my commit:</h1>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
