@@ -1,4 +1,4 @@
-<img align="center" src="https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif" width=1000 height=400>
+<img align="center" src="https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif" width=900 height=330>
 <h1 align="text-align: left">🤓👆 I'm Ch1mple</h1>
 <h3 align="center">When I wrote this code, only God and I understood what I did. Now only God knows or maybe GPT knows.</h3>
 
@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact **I'm a gamer from CS2, a chillin guy love to play soulborne and stealth games (never touch any grass in my life)**
 
-<br>
 <h2 align="text-align: left">🤩 Connect with me:</h1>
 <p align="left">
 <a href="https://fb.com/Ch1mpleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ch1mpleo" height="30" width="40" /></a>
@@ -16,15 +15,27 @@
 <a href="https://steamcommunity.com/id/Ch1mpleo/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Ch1mpleo" height="30" width="40" /></a>
 </p>
 
-<br>
 <h2 align="text-align: left">⚙️ Languages and Tools:</h1>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-<br>
 <h2 align="text-align: left">📊 Stats:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch1mpleo&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ch1mpleo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch1mpleo&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ch1mpleo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1mpleo&theme=highcontrast" alt="ch1mpleo" /></p>
-
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/snake.svg" alt="Snake animation" />
