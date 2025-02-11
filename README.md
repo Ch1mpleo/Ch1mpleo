@@ -3,9 +3,7 @@
 <h3 align="center">When I wrote this code, only God and I understood what I did. Now only God knows or maybe GPT knows.</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core, Typescript, TailwindCSS, NextJS and Unity**
-
 - 📫 How to reach me **vietanh051203@gmail.com**
-
 - ⚡ Fun fact **I'm a gamer from CS2, a chillin guy love to play soulborne and stealth games (never touch any grass in my life)**
 
 <h2 align="text-align: left">🤩 Connect with me:</h1>
