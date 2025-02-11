@@ -36,6 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-<h2 align="text-align: left">📊 Stats:</h1>
+<h2 align="text-align: left">🐍 The snake is eating my commit:</h1>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/snake.svg" alt="Snake animation" />
