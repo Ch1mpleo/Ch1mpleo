@@ -1,4 +1,5 @@
-<img align="center" src="https://tenor.com/bSmQZ.gif" width=900 height=330>
+<img align="center" src="https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif" width=900 height=330>
+<div class="tenor-gif-embed" data-postid="25311551" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/dreamybull-ambatukam-gamerkhasan24-gif-25311551">Dreamybull Ambatukam GIF</a>from <a href="https://tenor.com/search/dreamybull-gifs">Dreamybull GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="text-align: left">🤓👆 I'm Ch1mple</h1>
 <h3 align="center">When I wrote this code, only God and I understood what I did. Now only God knows or maybe GPT knows.</h3>
 
