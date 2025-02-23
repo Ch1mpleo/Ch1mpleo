@@ -1,4 +1,4 @@
-<img align="center" src="https://tenor.com/view/dreamybull-ambatukam-gamerkhasan24-gif-25311551" width=900 height=330>
+<img align="center" src="[https://tenor.com/view/dreamybull-ambatukam-gamerkhasan24-gif-25311551](https://tenor.com/bSmQZ.gif)" width=900 height=330>
 <h1 align="text-align: left">🤓👆 I'm Ch1mple</h1>
 <h3 align="center">When I wrote this code, only God and I understood what I did. Now only God knows or maybe GPT knows.</h3>
 
