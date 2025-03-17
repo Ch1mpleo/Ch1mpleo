@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core, Typescript, TailwindCSS, NextJS and Unity**
 - 📫 How to reach me **vietanh051203@gmail.com**
-- ⚡ Fun fact **I'm a gamer from CS2, a chillin guy love to play soulborne and stealth games (never touch any grass in my life)**
+- ⚡ **I'm a gamer from CS2, a chillin guy love to play soulborne and stealth games (never touch any grass in my life)**
 
 <h2 align="text-align: left">🗣️ Connect with me:</h1>
 <p align="left">
