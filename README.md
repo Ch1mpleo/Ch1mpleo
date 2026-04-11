@@ -1,10 +1,10 @@
 <img align="center" src="https://64.media.tumblr.com/b796e42eba5920d7cfbacd378517eafc/170ea7b2bfbd440b-80/s500x750/3aa3fcd842e9398da60ebb4573583685c2ed43fc.gif" width=900 height=330>
 <h1 align="text-align: left">🤓👆 I'm Ch1mple</h1>
-<h3 align="center">When I wrote this code, only God and I understood what I did. Now only God knows or maybe GPT knows.</h3>
+<h3 align="center">When I wrote this code, only God and I understood what I did. Now only God knows or maybe Claude knows.</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core, Typescript, TailwindCSS, NextJS and Unity**
-- 📫 How to reach me **vietanh051203@gmail.com**
-- ⚡ **I'm a gamer from CS2, a chillin guy love to play soulborne and stealth games (never touch any grass in my life)**
+-  I’m currently learning **ASP.NET Core, Typescript, TailwindCSS, NextJS and Unity**
+-  How to reach me **vietanh051203@gmail.com**
+-  **I'm a gamer who loves innovative ideas and unique art styles with wild aesthetics, like those in Marathon and Arc Raider. I'm also a chillin guy who enjoys playing Soulsborne games (I've never touched grass in my life).**
 
 <h2 align="text-align: left">🗣️ Connect with me:</h1>
 <p align="left">
