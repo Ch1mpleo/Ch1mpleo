@@ -16,24 +16,14 @@
     alt="What Viet Anh is building"
   />
 
-  <br/><br/>
-
-  <a href="https://oboxsteam.website/"><img src="https://img.shields.io/badge/FLAGSHIP-OBOXSTEAM-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" alt="Flagship project: OboxSTEAM" /></a>
-  &nbsp;
-  <a href="https://github.com/Ch1mpleo/visual-portfolio"><img src="https://img.shields.io/badge/PROUD_OF-VISUAL_PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" alt="Proud of my visual portfolio" /></a>
-  &nbsp;
-  <a href="https://github.com/Ch1mpleo?tab=repositories"><img src="https://img.shields.io/badge/MODE-BUILDING-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" alt="Currently building" /></a>
-
-  <br/><br/>
+  <br/>
 
   <a href="mailto:vietanh051203@gmail.com"><img src="https://img.shields.io/badge/EMAIL-vietanh051203%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email Viet Anh" /></a>
   <a href="https://github.com/Ch1mpleo"><img src="https://komarev.com/ghpvc/?username=Ch1mpleo&style=flat-square&color=FFFFFF&labelColor=000000&label=PROFILE+VIEWS" alt="Profile views" /></a>
 
 </div>
 
-<br/>
-
-<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
+<img src="./assets/section-divider.svg" width="100%" alt="" />
 
 <table>
   <tr>
@@ -60,9 +50,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
+<img src="./assets/section-divider.svg" width="100%" alt="" />
 
 ## ACTIVE BUILDS
 
@@ -124,9 +112,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
+<img src="./assets/section-divider.svg" width="100%" alt="" />
 
 ## LOADED MODULES
 
@@ -182,9 +168,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
+<img src="./assets/section-divider.svg" width="100%" alt="" />
 
 ## AFTER HOURS
 
@@ -205,9 +189,7 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
+<img src="./assets/section-divider.svg" width="100%" alt="" />
 
 ## CONTRIBUTION LOG
 
