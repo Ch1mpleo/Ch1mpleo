@@ -33,7 +33,7 @@
 
 <br/>
 
-<img src="./assets/matrix-divider.svg" width="100%" alt="" />
+<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
 
 <table>
   <tr>
@@ -62,126 +62,71 @@
 
 <br/>
 
-<img src="./assets/matrix-divider.svg" width="100%" alt="" />
+<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
 
-## FLAGSHIP PRODUCT
-
-<div align="center">
-
-### [OBOXSTEAM](https://oboxsteam.website/)
-
-**A Vietnamese experiential-learning platform that turns a student's STEAM journey into a portfolio they can carry forward.**
-
-<sub>CAPSTONE PROJECT · FULL PRODUCT SYSTEM · API + WEB + MOBILE</sub>
-
-</div>
-
-<br/>
-
-OboxSTEAM connects **online learning, live and offline lab sessions, assessments, payments, media evidence, and student progress** in one platform. As students complete programs, the system transforms their certificates, tagged photos, projects, and highlight videos into public portfolio microsites designed to support future study-abroad applications.
-
-What makes me proud is not only the amount of functionality, but the product thinking behind it: students, parents, mentors, managers, and admins each need a different view of the same learning journey. I worked across the system to keep those experiences connected rather than treating the API, frontend, and mobile app as separate assignments.
+## ACTIVE BUILDS
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <p><strong><a href="https://github.com/OboxSTEAM/OboxSTEAM.API">API</a></strong> &nbsp; <code>[CORE]</code></p>
-      <p><sub>The domain and integration backbone.</sub></p>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://oboxsteam.website/">OBOXSTEAM</a></strong> &nbsp; <code>[01 // CAPSTONE]</code></p>
+      <p><sub>One product across API, web, and mobile.</sub></p>
       <p>
-        Clean Architecture backend modeling programs, modules, courses, activities, cohorts, enrollment, submissions, portfolios, payments, and AI-assisted media workflows.
+        My capstone and the project I have poured the most time into: a Vietnamese STEAM platform that connects learning, live labs, progress, and media evidence, then turns that journey into a student portfolio.
       </p>
       <p>
-        <a href="https://api.oboxsteam.website/"><img src="https://img.shields.io/badge/LIVE_API-000000?style=flat-square&logo=swagger&logoColor=white" alt="Live OboxSTEAM API" /></a>
-        <img src="https://img.shields.io/badge/.NET_8-000000?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <p><strong><a href="https://github.com/OboxSTEAM/OboxSTEAM.FE">WEB</a></strong> &nbsp; <code>[EXPERIENCE]</code></p>
-      <p><sub>One platform, many learning journeys.</sub></p>
-      <p>
-        Role-aware web product for discovery, enrollment, learning, mentoring, progress, and portfolio building — including public student microsites with path and subdomain routing.
-      </p>
-      <p>
-        <a href="https://oboxsteam.website/"><img src="https://img.shields.io/badge/LIVE_SITE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Live OboxSTEAM website" /></a>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-        <img src="https://img.shields.io/badge/Tailwind_4-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+        <a href="https://github.com/OboxSTEAM/OboxSTEAM.API"><img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=dotnet&logoColor=white" alt="OboxSTEAM API" /></a>
+        <a href="https://github.com/OboxSTEAM/OboxSTEAM.FE"><img src="https://img.shields.io/badge/WEB-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="OboxSTEAM web" /></a>
+        <a href="https://github.com/OboxSTEAM/OboxSTEAM.Mobile"><img src="https://img.shields.io/badge/MOBILE-000000?style=flat-square&logo=expo&logoColor=white" alt="OboxSTEAM mobile" /></a>
+        <a href="https://oboxsteam.website/"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Live OboxSTEAM website" /></a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <p><strong><a href="https://github.com/OboxSTEAM/OboxSTEAM.Mobile">MOBILE</a></strong> &nbsp; <code>[PARENT]</code></p>
-      <p><sub>The learning journey, visible to parents.</sub></p>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://ch1mpleo.github.io/visual-portfolio/">VISUAL PORTFOLIO</a></strong> &nbsp; <code>[02 // PERSONAL]</code></p>
+      <p><sub>The project that looks and feels most like me.</sub></p>
       <p>
-        A dedicated parent experience sharing the same backend, with secure sessions and synchronized contracts for profiles, children, notifications, and learning progress.
+        My personal corner of the web, where developer mode and gamer mode share a save file. I built it to explore expressive layouts, smooth motion, playful transitions, and a style that is unmistakably mine.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Expo_57-000000?style=flat-square&logo=expo&logoColor=white" alt="Expo 57" />
-        <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" alt="React Native" />
-        <img src="https://img.shields.io/badge/NativeWind-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="NativeWind" />
-        <img src="https://img.shields.io/badge/SecureStore-000000?style=flat-square" alt="Expo SecureStore" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <code>PROGRAM → MODULE → COURSE → ACTIVITY</code><br/>
-  <sub>Learning progress becomes evidence · evidence becomes a portfolio · the portfolio tells the student's story.</sub>
-</p>
-
-<br/>
-
-<img src="./assets/matrix-divider.svg" width="100%" alt="" />
-
-## PERSONAL SHOWPIECE
-
-<table>
-  <tr>
-    <td width="64%" valign="middle">
-      <h3><a href="https://ch1mpleo.github.io/visual-portfolio/">VISUAL PORTFOLIO</a></h3>
-      <p><em>The project that looks and feels most like me.</em></p>
-      <p>
-        This is not meant to be a formal portfolio template. It is my corner of the internet where developer mode and gamer mode share a save file — a place for expressive layouts, smooth movement, playful transitions, and references that reward a closer look.
-      </p>
-      <p>
-        I am proud of it because it proves that frontend work can communicate personality, not only information. It is where I let art direction lead and use code to support the atmosphere.
-      </p>
-      <p>
-        <a href="https://ch1mpleo.github.io/visual-portfolio/"><img src="https://img.shields.io/badge/OPEN_LIVE_SITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the live visual portfolio" /></a>
-        <a href="https://github.com/Ch1mpleo/visual-portfolio"><img src="https://img.shields.io/badge/VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white" alt="View the visual portfolio source" /></a>
-      </p>
-    </td>
-    <td width="36%" valign="middle">
-      <p><code>BUILT WITH //</code></p>
-      <p>
+        <a href="https://github.com/Ch1mpleo/visual-portfolio"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Visual Portfolio source" /></a>
+        <a href="https://ch1mpleo.github.io/visual-portfolio/"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Live visual portfolio" /></a>
         <img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
         <img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-        <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square" alt="Lenis" />
-        <img src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
       </p>
-      <p><code>DESIGN NOTES //</code></p>
-      <p><sub>Dark, kinetic, game-aware, experimental, and intentionally personal.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/Ch1mpleo/GraphPaper">GRAPHPAPER</a></strong> &nbsp; <code>[03 // KNOWLEDGE]</code></p>
+      <p><sub>Research papers in. Navigable knowledge out.</sub></p>
+      <p>
+        A .NET GraphRAG experiment that extracts entities and relationships from research papers and turns them into searchable, citation-backed knowledge graphs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-000000?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/GraphRAG-000000?style=flat-square" alt="GraphRAG" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>INTERACTIVE MUSEUMS</strong> &nbsp; <code>[04 // VISUAL]</code></p>
+      <p><sub>Coursework that does not look like coursework.</sub></p>
+      <p>
+        Two scroll-driven experiences that turn dense political theory and Vietnamese history into archival, animated digital exhibits.
+      </p>
+      <p>
+        <a href="https://ch1mpleo.github.io/MLN131-Visual/"><img src="https://img.shields.io/badge/MLN131-000000?style=flat-square" alt="MLN131 Visual" /></a>
+        <a href="https://ch1mpleo.github.io/VNR-Visual/"><img src="https://img.shields.io/badge/VNR202-000000?style=flat-square" alt="VNR Visual" /></a>
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      </p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><strong>MORE RECENT EXPERIMENTS</strong></summary>
-  <br/>
-  <ul>
-    <li><a href="https://github.com/Ch1mpleo/GraphPaper"><strong>GraphPaper</strong></a> — a .NET GraphRAG system that turns research papers into navigable knowledge graphs.</li>
-    <li><a href="https://ch1mpleo.github.io/MLN131-Visual/"><strong>MLN131 Visual</strong></a> — political theory redesigned as a constructivist interactive museum.</li>
-    <li><a href="https://ch1mpleo.github.io/VNR-Visual/"><strong>VNR Visual</strong></a> — an archival, scroll-driven visual experience about Vietnam from 1945–1954.</li>
-  </ul>
-</details>
-
 <br/>
 
-<img src="./assets/matrix-divider.svg" width="100%" alt="" />
+<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
 
 ## LOADED MODULES
 
@@ -239,7 +184,7 @@ What makes me proud is not only the amount of functionality, but the product thi
 
 <br/>
 
-<img src="./assets/matrix-divider.svg" width="100%" alt="" />
+<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
 
 ## AFTER HOURS
 
@@ -262,7 +207,7 @@ What makes me proud is not only the amount of functionality, but the product thi
 
 <br/>
 
-<img src="./assets/matrix-divider.svg" width="100%" alt="" />
+<img src="./assets/matrix-divider-v2.svg" width="100%" alt="" />
 
 ## CONTRIBUTION LOG
 
