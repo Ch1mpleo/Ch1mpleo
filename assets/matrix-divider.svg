@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78" role="img" aria-label="Animated matrix section divider">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Animated matrix section divider with minimalist border">
   <defs>
     <style>
       text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
       @keyframes fall {
-        from { transform: translateY(-92px); }
-        to { transform: translateY(112px); }
+        from { transform: translateY(-130px); }
+        to { transform: translateY(170px); }
       }
       .d1 { animation: fall 3.8s linear infinite -1.2s; }
       .d2 { animation: fall 4.9s linear infinite -3.7s; }
@@ -17,14 +17,21 @@
     </style>
     <linearGradient id="trail" x1="0" y1="0" x2="0" y2="1">
       <stop stop-color="#8b949e" stop-opacity="0"/>
-      <stop offset=".38" stop-color="#8b949e" stop-opacity=".18"/>
-      <stop offset=".78" stop-color="#ffffff" stop-opacity=".32"/>
+      <stop offset=".3" stop-color="#8b949e" stop-opacity=".16"/>
+      <stop offset=".72" stop-color="#ffffff" stop-opacity=".34"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8b949e" stop-opacity="0"/>
+      <stop offset=".18" stop-color="#8b949e" stop-opacity=".45"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".85"/>
+      <stop offset=".82" stop-color="#8b949e" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#8b949e" stop-opacity="0"/>
+    </linearGradient>
     <mask id="fade">
-      <rect width="1200" height="78" fill="url(#trail)"/>
+      <rect width="1200" height="104" fill="url(#trail)"/>
     </mask>
-    <clipPath id="clip"><rect width="1200" height="78"/></clipPath>
+    <clipPath id="clip"><rect width="1200" height="104"/></clipPath>
   </defs>
 
   <g clip-path="url(#clip)" mask="url(#fade)" fill="#ffffff" font-size="11" letter-spacing="1">
@@ -49,5 +56,7 @@
     <g class="d2"><text x="1168" y="0">A<tspan x="1168" dy="17">N</tspan><tspan x="1168" dy="17">H</tspan><tspan x="1168" dy="17">0</tspan><tspan x="1168" dy="17">1</tspan></text></g>
   </g>
 
-  <path d="M0 76h510l8-2h164l8 2h510" fill="none" stroke="#8b949e" stroke-opacity=".15"/>
+  <path d="M0 111h568l8-5h48l8 5h568" fill="none" stroke="url(#border)"/>
+  <circle cx="600" cy="111" r="2.5" fill="#ffffff"/>
+  <circle cx="600" cy="111" r="6" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
 </svg>
