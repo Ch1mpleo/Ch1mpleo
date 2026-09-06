@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ch1mpleo — Do Huu Viet Anh</title>
+  <desc id="desc">A modern black and white profile banner.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#202020"/>
+      <stop offset=".5" stop-color="#080808"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#ffffff" stop-opacity=".8"/>
+      <stop offset=".8" stop-color="#ffffff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="4" fill="#050505"/>
+  <rect x="1" y="1" width="1198" height="338" rx="3" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+
+  <g fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="48" y="48" font-size="11" letter-spacing="3" opacity=".52">GITHUB PROFILE / VIETNAM</text>
+    <text x="1152" y="48" text-anchor="end" font-size="11" letter-spacing="3" opacity=".52">AVAILABLE FOR THE NEXT BUILD</text>
+
+    <text x="48" y="128" font-size="22" font-weight="600" letter-spacing="7" opacity=".82">DO HUU VIET ANH</text>
+    <text x="43" y="232" font-size="104" font-weight="800" letter-spacing="-6">CH1MPLEO</text>
+
+    <text x="50" y="287" font-size="14" letter-spacing="2.2" opacity=".62">FULL-STACK DEVELOPMENT  ·  VISUAL SYSTEMS  ·  CREATIVE TECHNOLOGY</text>
+    <text x="1152" y="287" text-anchor="end" font-size="12" letter-spacing="2" opacity=".48">NODE / 051203</text>
+  </g>
+
+  <rect x="48" y="258" width="1104" height="1" fill="url(#fade)"/>
+  <rect x="48" y="316" width="28" height="3" fill="#ffffff"/>
+  <rect x="82" y="316" width="8" height="3" fill="#ffffff" opacity=".35"/>
+  <rect x="1110" y="316" width="42" height="3" fill="#ffffff" opacity=".18"/>
+
+  <g transform="translate(1013 94)">
+    <rect width="139" height="72" fill="none" stroke="#ffffff" stroke-opacity=".18"/>
+    <path d="M16 51V21h30M123 21H93v30" fill="none" stroke="#ffffff" stroke-opacity=".28"/>
+    <text x="69.5" y="46" text-anchor="middle" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700" letter-spacing="3">C1</text>
+  </g>
+</svg>
