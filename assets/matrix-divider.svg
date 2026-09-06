@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="78" viewBox="0 0 1200 78" role="img" aria-label="Animated matrix section divider">
+  <defs>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      @keyframes fall {
+        from { transform: translateY(-92px); }
+        to { transform: translateY(112px); }
+      }
+      .d1 { animation: fall 3.8s linear infinite -1.2s; }
+      .d2 { animation: fall 4.9s linear infinite -3.7s; }
+      .d3 { animation: fall 5.8s linear infinite -2.4s; }
+      .d4 { animation: fall 4.3s linear infinite -4.1s; }
+      .d5 { animation: fall 6.4s linear infinite -5.6s; }
+      @media (prefers-reduced-motion: reduce) {
+        .d1, .d2, .d3, .d4, .d5 { animation: none; }
+      }
+    </style>
+    <linearGradient id="trail" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#8b949e" stop-opacity="0"/>
+      <stop offset=".38" stop-color="#8b949e" stop-opacity=".18"/>
+      <stop offset=".78" stop-color="#ffffff" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade">
+      <rect width="1200" height="78" fill="url(#trail)"/>
+    </mask>
+    <clipPath id="clip"><rect width="1200" height="78"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)" mask="url(#fade)" fill="#ffffff" font-size="11" letter-spacing="1">
+    <g class="d1"><text x="28" y="0">0<tspan x="28" dy="17">1</tspan><tspan x="28" dy="17">C</tspan><tspan x="28" dy="17">#</tspan><tspan x="28" dy="17">8</tspan><tspan x="28" dy="17">/</tspan></text></g>
+    <g class="d3"><text x="83" y="0">O<tspan x="83" dy="17">B</tspan><tspan x="83" dy="17">O</tspan><tspan x="83" dy="17">X</tspan><tspan x="83" dy="17">1</tspan></text></g>
+    <g class="d5"><text x="141" y="0">A<tspan x="141" dy="17">P</tspan><tspan x="141" dy="17">I</tspan><tspan x="141" dy="17">0</tspan><tspan x="141" dy="17">1</tspan></text></g>
+    <g class="d2"><text x="204" y="0">N<tspan x="204" dy="17">E</tspan><tspan x="204" dy="17">X</tspan><tspan x="204" dy="17">T</tspan><tspan x="204" dy="17">/</tspan></text></g>
+    <g class="d4"><text x="268" y="0">P<tspan x="268" dy="17">O</tspan><tspan x="268" dy="17">R</tspan><tspan x="268" dy="17">T</tspan><tspan x="268" dy="17">F</tspan></text></g>
+    <g class="d1"><text x="333" y="0">A<tspan x="333" dy="17">W</tspan><tspan x="333" dy="17">S</tspan><tspan x="333" dy="17">/</tspan><tspan x="333" dy="17">3</tspan></text></g>
+    <g class="d5"><text x="397" y="0">S<tspan x="397" dy="17">T</tspan><tspan x="397" dy="17">E</tspan><tspan x="397" dy="17">A</tspan><tspan x="397" dy="17">M</tspan></text></g>
+    <g class="d3"><text x="461" y="0">0<tspan x="461" dy="17">5</tspan><tspan x="461" dy="17">1</tspan><tspan x="461" dy="17">2</tspan><tspan x="461" dy="17">0</tspan></text></g>
+    <g class="d2"><text x="526" y="0">F<tspan x="526" dy="17">U</tspan><tspan x="526" dy="17">L</tspan><tspan x="526" dy="17">L</tspan><tspan x="526" dy="17">/</tspan></text></g>
+    <g class="d4"><text x="590" y="0">B<tspan x="590" dy="17">U</tspan><tspan x="590" dy="17">I</tspan><tspan x="590" dy="17">L</tspan><tspan x="590" dy="17">D</tspan></text></g>
+    <g class="d1"><text x="654" y="0">R<tspan x="654" dy="17">E</tspan><tspan x="654" dy="17">A</tspan><tspan x="654" dy="17">C</tspan><tspan x="654" dy="17">T</tspan></text></g>
+    <g class="d3"><text x="719" y="0">E<tspan x="719" dy="17">X</tspan><tspan x="719" dy="17">P</tspan><tspan x="719" dy="17">O</tspan><tspan x="719" dy="17">5</tspan></text></g>
+    <g class="d5"><text x="783" y="0">D<tspan x="783" dy="17">A</tspan><tspan x="783" dy="17">T</tspan><tspan x="783" dy="17">A</tspan><tspan x="783" dy="17">/</tspan></text></g>
+    <g class="d2"><text x="847" y="0">V<tspan x="847" dy="17">I</tspan><tspan x="847" dy="17">S</tspan><tspan x="847" dy="17">U</tspan><tspan x="847" dy="17">A</tspan></text></g>
+    <g class="d4"><text x="912" y="0">S<tspan x="912" dy="17">H</tspan><tspan x="912" dy="17">I</tspan><tspan x="912" dy="17">P</tspan><tspan x="912" dy="17">/</tspan></text></g>
+    <g class="d1"><text x="976" y="0">D<tspan x="976" dy="17">O</tspan><tspan x="976" dy="17">M</tspan><tspan x="976" dy="17">A</tspan><tspan x="976" dy="17">I</tspan></text></g>
+    <g class="d5"><text x="1040" y="0">N<tspan x="1040" dy="17">O</tspan><tspan x="1040" dy="17">D</tspan><tspan x="1040" dy="17">E</tspan><tspan x="1040" dy="17">1</tspan></text></g>
+    <g class="d3"><text x="1105" y="0">V<tspan x="1105" dy="17">I</tspan><tspan x="1105" dy="17">E</tspan><tspan x="1105" dy="17">T</tspan><tspan x="1105" dy="17">/</tspan></text></g>
+    <g class="d2"><text x="1168" y="0">A<tspan x="1168" dy="17">N</tspan><tspan x="1168" dy="17">H</tspan><tspan x="1168" dy="17">0</tspan><tspan x="1168" dy="17">1</tspan></text></g>
+  </g>
+
+  <path d="M0 76h510l8-2h164l8 2h510" fill="none" stroke="#8b949e" stroke-opacity=".15"/>
+</svg>
