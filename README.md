@@ -6,14 +6,9 @@
 
   <br/>
 
-  <p>
-    <strong>Full-stack product developer &amp; visual builder from Vietnam</strong><br/>
-    <sub>I take ideas across the stack — from domain models and APIs to interfaces people enjoy using.</sub>
-  </p>
-
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&height=32&lines=Building+OboxSTEAM+across+API%2C+web%2C+and+mobile;Turning+student+work+into+living+portfolios;Making+software+useful+without+making+it+boring;One+more+feature%2C+then+the+bonfire..."
-    alt="What Viet Anh is building"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1800&color=FFFFFF&center=true&vCenter=true&width=760&height=32&lines=Somewhere+in+the+heavens...+they+are+waiting.;Escape+will+make+me+God."
+    alt="Quotes from Marathon"
   />
 
   <br/>
