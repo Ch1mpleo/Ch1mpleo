@@ -1,0 +1,47 @@
+name: GitHub Profile 3D Contributions
+
+on:
+  schedule:
+    # 02:00 Asia/Saigon (UTC+7)
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Generate compact 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/profile-3d-contrib.json
+
+      - name: Commit generated chart
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/profile-compact.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update 3D contribution chart [skip ci]"
+            git push
+          fi

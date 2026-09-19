@@ -188,13 +188,11 @@
 
 ## CONTRIBUTION LOG
 
-<p align="center"><sub>The snake is still eating my commits.</sub></p>
+<p align="center"><sub>A year of building, rendered in 3D.</sub></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ch1mpleo/Ch1mpleo/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-compact.svg" width="68%" alt="Viet Anh's GitHub contributions rendered as a compact 3D calendar" />
+</p>
 
 <br/>
 
