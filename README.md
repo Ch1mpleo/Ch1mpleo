@@ -178,7 +178,7 @@
     <td width="50%" valign="top">
       <p><code>ON STEAM //</code></p>
       <a href="https://steamcommunity.com/id/Ch1mpleo/">
-        <img src="https://card.yuy1n.io/card/76561199052168375/dark,en,badge,group,bg-050505-111827,text-f0f6fc" width="100%" alt="Viet Anh's live Steam profile card" />
+        <img src="https://card.yuy1n.io/card/76561199052168375/dark,en,badge,group,bg-game-3065800" width="100%" alt="Viet Anh's live Steam profile card with Marathon artwork" />
       </a>
       <p><sub>A live snapshot of what I have been playing lately.</sub></p>
     </td>
