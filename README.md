@@ -167,22 +167,16 @@
 
 ## AFTER HOURS
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><code>GAMES //</code></p>
-      <p>
-        I like games with weight, mystery, and worlds that do not explain everything. <strong>Soulsborne</strong> for the challenge and lore, <strong>ARC Raiders</strong> for its tense lived-in sci-fi, and <strong>Marathon</strong> for its fearless color, typography, and atmosphere.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><code>ON STEAM //</code></p>
-      <a href="https://steamcommunity.com/id/Ch1mpleo/">
-        <img src="./assets/steam-card.svg?v=e8de2a483a4d" width="100%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://steamcommunity.com/id/Ch1mpleo/">
+  <img align="right" src="./assets/steam-card.svg?v=e8de2a483a4d" width="42%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
+</a>
+
+<p><code>GAMES //</code></p>
+<p>
+  I like games with weight, mystery, and worlds that do not explain everything. <strong>Soulsborne</strong> for the challenge and lore, <strong>ARC Raiders</strong> for its tense lived-in sci-fi, and <strong>Marathon</strong> for its fearless color, typography, and atmosphere.
+</p>
+
+<br clear="all" />
 
 <img src="./assets/section-divider.svg" width="100%" alt="" />
 
