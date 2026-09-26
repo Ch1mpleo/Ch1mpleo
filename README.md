@@ -169,7 +169,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle">
       <p><code>GAMES //</code></p>
       <p>
         I like games with weight, mystery, and worlds that do not explain everything. <strong>Soulsborne</strong> for the challenge and lore, <strong>ARC Raiders</strong> for its tense lived-in sci-fi, and <strong>Marathon</strong> for its fearless color, typography, and atmosphere.
@@ -178,9 +178,8 @@
     <td width="50%" valign="top">
       <p><code>ON STEAM //</code></p>
       <a href="https://steamcommunity.com/id/Ch1mpleo/">
-        <img src="./assets/steam-card.svg?v=1e7ac7abef9d" width="100%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
+        <img src="./assets/steam-card.svg?v=e8de2a483a4d" width="100%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
       </a>
-      <p><sub>A live snapshot of what I have been playing lately.</sub></p>
     </td>
   </tr>
 </table>
