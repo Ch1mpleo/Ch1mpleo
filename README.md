@@ -169,7 +169,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="top">
       <p><code>GAMES //</code></p>
       <p>
         I like games with weight, mystery, and worlds that do not explain everything. <strong>Soulsborne</strong> for the challenge and lore, <strong>ARC Raiders</strong> for its tense lived-in sci-fi, and <strong>Marathon</strong> for its fearless color, typography, and atmosphere.
