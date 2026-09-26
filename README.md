@@ -178,7 +178,7 @@
     <td width="50%" valign="top">
       <p><code>ON STEAM //</code></p>
       <a href="https://steamcommunity.com/id/Ch1mpleo/">
-        <img src="./assets/steam-card.svg" width="100%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
+        <img src="./assets/steam-card.svg?v=1e7ac7abef9d" width="100%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
       </a>
       <p><sub>A live snapshot of what I have been playing lately.</sub></p>
     </td>

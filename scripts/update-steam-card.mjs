@@ -1,9 +1,11 @@
-import { mkdir, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 
 const PROFILE_URL = 'https://steamcommunity.com/id/Ch1mpleo/';
 const PROFILE_XML_URL = 'https://steamcommunity.com/id/Ch1mpleo/?xml=1';
 const ART_URL = 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/library_hero.jpg';
 const OUTPUT = new URL('../assets/steam-card.svg', import.meta.url);
+const README = new URL('../README.md', import.meta.url);
 
 function requiredMatch(source, pattern, label) {
   const match = source.match(pattern);
@@ -112,8 +114,16 @@ async function main() {
   const [avatar, art, ...capsules] = await Promise.all([
     embed(profile.avatarUrl), embed(ART_URL), ...profile.games.map((game) => embed(game.capsuleUrl)),
   ]);
+  const svg = render(profile, { avatar, art, capsules });
+  const version = createHash('sha256').update(svg).digest('hex').slice(0, 12);
+  const readme = await readFile(README, 'utf8');
+  if (!readme.includes('./assets/steam-card.svg')) {
+    throw new Error('README is missing the Steam card image');
+  }
+  const updatedReadme = readme.replace(/\.\/assets\/steam-card\.svg(?:\?v=[\da-f]+)?/, `./assets/steam-card.svg?v=${version}`);
   await mkdir(new URL('../assets/', import.meta.url), { recursive: true });
-  await writeFile(OUTPUT, render(profile, { avatar, art, capsules }));
+  await writeFile(OUTPUT, svg);
+  if (updatedReadme !== readme) await writeFile(README, updatedReadme);
   console.log(`Updated Steam card: ${profile.games.map((game) => game.name).join(', ') || 'no recent games'}`);
 }
 

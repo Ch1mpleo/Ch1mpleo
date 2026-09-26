@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/steam-card.svg
+          git add assets/steam-card.svg README.md
           if ! git diff --cached --quiet; then
             git commit -m "chore: update Steam card [skip ci]"
             for attempt in 1 2 3; do
