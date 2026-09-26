@@ -1,0 +1,50 @@
+name: Update Steam Card
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/update-steam-card.mjs"
+      - ".github/workflows/steam-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: steam-card
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Generate Steam card from public profile
+        run: node scripts/update-steam-card.mjs
+
+      - name: Commit generated card
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/steam-card.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update Steam card [skip ci]"
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              sleep 2
+            done
+            exit 1
+          fi
