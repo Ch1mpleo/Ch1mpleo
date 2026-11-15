@@ -168,7 +168,7 @@
 ## AFTER HOURS
 
 <a href="https://steamcommunity.com/id/Ch1mpleo/">
-  <img align="right" src="./assets/steam-card.svg?v=b5c55088d5e5" width="42%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
+  <img align="right" src="./assets/steam-card.svg?v=f33a539a133e" width="42%" alt="Viet Anh's Steam activity with Marathon artwork and recently played games" />
 </a>
 
 <p><code>GAMES //</code></p>
