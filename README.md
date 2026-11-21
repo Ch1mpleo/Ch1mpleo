@@ -47,68 +47,6 @@
 
 <img src="./assets/section-divider.svg" width="100%" alt="" />
 
-## ACTIVE BUILDS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://oboxsteam.website/">OBOXSTEAM</a></strong> &nbsp; <code>[01 // CAPSTONE]</code></p>
-      <p><sub>One product across API, web, and mobile.</sub></p>
-      <p>
-        My capstone and the project I have poured the most time into: a Vietnamese STEAM platform that connects learning, live labs, progress, and media evidence, then turns that journey into a student portfolio.
-      </p>
-      <p>
-        <a href="https://github.com/OboxSTEAM/OboxSTEAM.API"><img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=dotnet&logoColor=white" alt="OboxSTEAM API" /></a>
-        <a href="https://github.com/OboxSTEAM/OboxSTEAM.FE"><img src="https://img.shields.io/badge/WEB-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="OboxSTEAM web" /></a>
-        <a href="https://github.com/OboxSTEAM/OboxSTEAM.Mobile"><img src="https://img.shields.io/badge/MOBILE-000000?style=flat-square&logo=expo&logoColor=white" alt="OboxSTEAM mobile" /></a>
-        <a href="https://oboxsteam.website/"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Live OboxSTEAM website" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://ch1mpleo.github.io/visual-portfolio/">VISUAL PORTFOLIO</a></strong> &nbsp; <code>[02 // PERSONAL]</code></p>
-      <p><sub>The project that looks and feels most like me.</sub></p>
-      <p>
-        My personal corner of the web, where developer mode and gamer mode share a save file. I built it to explore expressive layouts, smooth motion, playful transitions, and a style that is unmistakably mine.
-      </p>
-      <p>
-        <a href="https://github.com/Ch1mpleo/visual-portfolio"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white" alt="Visual Portfolio source" /></a>
-        <a href="https://ch1mpleo.github.io/visual-portfolio/"><img src="https://img.shields.io/badge/LIVE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Live visual portfolio" /></a>
-        <img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-        <img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/Ch1mpleo/GraphPaper">GRAPHPAPER</a></strong> &nbsp; <code>[03 // KNOWLEDGE]</code></p>
-      <p><sub>Research papers in. Navigable knowledge out.</sub></p>
-      <p>
-        A .NET GraphRAG experiment that extracts entities and relationships from research papers and turns them into searchable, citation-backed knowledge graphs.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-000000?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/GraphRAG-000000?style=flat-square" alt="GraphRAG" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>INTERACTIVE MUSEUMS</strong> &nbsp; <code>[04 // VISUAL]</code></p>
-      <p><sub>Coursework that does not look like coursework.</sub></p>
-      <p>
-        Two scroll-driven experiences that turn dense political theory and Vietnamese history into archival, animated digital exhibits.
-      </p>
-      <p>
-        <a href="https://ch1mpleo.github.io/MLN131-Visual/"><img src="https://img.shields.io/badge/MLN131-000000?style=flat-square" alt="MLN131 Visual" /></a>
-        <a href="https://ch1mpleo.github.io/VNR-Visual/"><img src="https://img.shields.io/badge/VNR202-000000?style=flat-square" alt="VNR Visual" /></a>
-        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
 ## LOADED MODULES
 
 <table width="100%">
