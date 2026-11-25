@@ -15,7 +15,6 @@
 
   <a href="mailto:vietanh051203@gmail.com"><img src="https://img.shields.io/badge/EMAIL-vietanh051203%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email Viet Anh" /></a>
   <a href="https://github.com/Ch1mpleo"><img src="https://komarev.com/ghpvc/?username=Ch1mpleo&style=flat-square&color=FFFFFF&labelColor=000000&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  [![Ch1mpleo on GitRanks: followers rank #2,463 in Vietnam · top 30%](https://gitranks.com/badge/user/Ch1mpleo/rank.svg?by=followers&scope=country)](https://gitranks.com/profile/Ch1mpleo/country)
 
 </div>
 
